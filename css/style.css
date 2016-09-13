@@ -269,6 +269,9 @@ h2.title{
 	text-transform: uppercase;
 	margin-top: 200px;
 }
+h3.name{
+	color: #fff;
+}
 
 .line-top{
 	width: 930px;
